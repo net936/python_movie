@@ -39,9 +39,7 @@
 - 前端技术栈 ES6、vue、vuex、vue-router、vue-cli、axios、antd
 - 后端技术栈 Python、Django、pip
 
-## 源码下载
 
-https://github.com/geeeeeeeek/python_movie
 
 ## 在线演示
 
